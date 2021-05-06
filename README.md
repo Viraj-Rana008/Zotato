@@ -1,5 +1,6 @@
 # Zotato
 This is a food booking and ordering command line interface (CLI) application implemented in Java.
+Application showcases the use of obect oriented programming via implementing a real world food delivery app by name - Zomato.
 
 Provides two types of interfaces for:
 - Customers
